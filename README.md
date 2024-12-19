@@ -1,3 +1,6 @@
+> [!NOTE]
+> 各ノートブックの説明文を日本語にしました。（READMEはそのままです）
+
 # Energy Efficiency Management System - Multi-Agent Workshop
 
 ## Overview
